@@ -1,5 +1,5 @@
 # Keep-App-React
-## Google Keep Clone using hooks and material-ui in React.
+## Google Keep Clone using hooks and material-ui in React .
 
 # Screenshots 📸
 
